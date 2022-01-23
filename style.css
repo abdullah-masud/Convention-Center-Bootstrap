@@ -4,3 +4,14 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+
+.package-section {
+    color: #231D4F;
+}
+
+.btn-backgrund-color {
+    background-color: #fae2f0b7;
+    mix-blend-mode: normal;
+    font-weight: 600;
+    border-radius: 24px;
+}
