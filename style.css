@@ -39,7 +39,7 @@ footer {
     height: 280px;
 }
 
-@media only screen and (max-width: 667px) {
+@media only screen and (max-width: 688px) {
     .custom-img-height {
         height: 250px;
     }
